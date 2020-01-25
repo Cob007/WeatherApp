@@ -1,0 +1,137 @@
+[
+  {
+    "id": 707860,
+    "name": "Hurzuf",
+    "country": "UA",
+    "coord": {
+      "lon": 34.283333,
+      "lat": 44.549999
+    }
+  },
+  {
+    "id": 519188,
+    "name": "Novinki",
+    "country": "RU",
+    "coord": {
+      "lon": 37.666668,
+      "lat": 55.683334
+    }
+  },
+  {
+    "id": 1283378,
+    "name": "Gorkhā",
+    "country": "NP",
+    "coord": {
+      "lon": 84.633331,
+      "lat": 28
+    }
+  },
+  {
+    "id": 1270260,
+    "name": "State of Haryāna",
+    "country": "IN",
+    "coord": {
+      "lon": 76,
+      "lat": 29
+    }
+  },
+  {
+    "id": 708546,
+    "name": "Holubynka",
+    "country": "UA",
+    "coord": {
+      "lon": 33.900002,
+      "lat": 44.599998
+    }
+  },
+  {
+    "id": 1283710,
+    "name": "Bāgmatī Zone",
+    "country": "NP",
+    "coord": {
+      "lon": 85.416664,
+      "lat": 28
+    }
+  },
+  {
+    "id": 529334,
+    "name": "Mar’ina Roshcha",
+    "country": "RU",
+    "coord": {
+      "lon": 37.611111,
+      "lat": 55.796391
+    }
+  },
+  {
+    "id": 2823141,
+    "name": "Thale",
+    "country": "DE",
+    "coord": {
+      "lon": 11.05,
+      "lat": 51.75
+    }
+  },
+  {
+    "id": 2821254,
+    "name": "Treuchtlingen",
+    "country": "DE",
+    "coord": {
+      "lon": 10.91667,
+      "lat": 48.950001
+    }
+  },
+  {
+    "id": 2888846,
+    "name": "Klein Glienicke",
+    "country": "DE",
+    "coord": {
+      "lon": 13.1,
+      "lat": 52.416672
+    }
+  },
+  {
+    "id": 6553115,
+    "name": "Ostbevern",
+    "country": "DE",
+    "coord": {
+      "lon": 7.839,
+      "lat": 52.056599
+    }
+  },
+  {
+    "id": 2928927,
+    "name": "Eselsburg",
+    "country": "DE",
+    "coord": {
+      "lon": 14.1,
+      "lat": 51.26667
+    }
+  },
+  {
+    "id": 2848920,
+    "name": "Reifert",
+    "country": "DE",
+    "coord": {
+      "lon": 7.38333,
+      "lat": 50.566669
+    }
+  },
+  {
+    "id": 2751791,
+    "name": "Gemeente Leeuwarden",
+    "country": "NL",
+    "coord": {
+      "lon": 5.78333,
+      "lat": 53.183331
+    }
+  },
+  {
+    "id": 2754273,
+    "name": "Het Hazebos",
+    "country": "NL",
+    "coord": {
+      "lon": 6.60543,
+      "lat": 52.564899
+    }
+  }
+]
